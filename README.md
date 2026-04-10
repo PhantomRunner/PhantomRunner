@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal project, a custom Spotify clone that plays local music 🎵<br>👯 I’m looking to collaborate on open-source projects that help developers learn and grow together 🤝<br>🤝 I’m looking for help with optimizing my code for better performance and scalability 💻<br>🌱 I’m currently learning about machine learning and its applications in software development 📊
+Currently working as a part of team developing VR Post-Apocalyptic Game 🎵
 
 
 ## 🌐 Socials:
