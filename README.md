@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as a part of team developing VR Post-Apocalyptic Game 🎵
+Currently working as a part of team developing VR Post-Apocalyptic Game
 
 
 ## 🌐 Socials:
